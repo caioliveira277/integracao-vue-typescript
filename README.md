@@ -24,7 +24,7 @@ Abaixo estará listada as ferramentas necessárias para o funcionamento do proje
 - **NodeJS versão 14** <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/nodejs.svg" height="20" /><br>
   [<ins>Guia de instalação NodeJS</ins>](https://nodejs.org/en/).
   
-### Scripts para executar:
+### Executando o projeto:
 Os scripts abaixo executam a compilação do projeto.
    ```sh
    npm run build
